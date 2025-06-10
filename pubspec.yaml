@@ -1,7 +1,8 @@
 name: t_slider
 description: "A simple customizable slider."
-version: 0.0.1
-homepage:
+version: 0.0.2
+homepage: https://dart.nareke.com.br/t-slider
+repository: https://github.com/tonsoo/t-slider
 
 environment:
   sdk: ^3.6.0
