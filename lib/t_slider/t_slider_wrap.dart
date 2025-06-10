@@ -1,0 +1,4 @@
+enum TSliderWrap {
+  tight,
+  loose;
+}
